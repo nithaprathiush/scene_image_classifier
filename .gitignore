@@ -1,0 +1,5 @@
+venv/
+venvImageClass/
+.venv/
+__pycache__/
+*.pyc
